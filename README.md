@@ -1,29 +1,32 @@
-# Indify - Free Portfolio Website Templates
+## Sudhan Portfolio
 
-A simple template with a combination of white and indigo. 
+This repository contains the HTML, CSS, and JavaScript files for Sudhan Portfolio. It showcases Hari Hara Sudhan B's academic achievements, projects, and contact information.
 
-![Indify - Screenshot](./assets/img/portfolio-screenshot.png "Corners - Screenshot")
+### Description
 
-## Features
+Sudhan Portfolio is a simple and elegant website designed to showcase Hari Hara Sudhan B's portfolio. It includes sections for academics, projects, achievements, and contact information.
 
-✅ Fast
+### Technologies Used
 
-✅ FREE
+- HTML
+- CSS
+- JavaScript
+- Swiper JS for image sliders
+- AOS for scroll animations
 
-✅ Mobile Responsive
+### How to Use
 
-✅ SEO Friendly
+To view the portfolio, simply open the `index.html` file in a web browser.
 
-✅ Compatible with any web server
+### Credits
 
-## How to use
+- Font Awesome for icons
+- Swiper JS for image sliders
+- AOS for scroll animations
 
-1. Close or manually download the code.
-2. Open the `index.html` file in your browser.
-3. If everything looks good, upload it to your server.
+### Contact
 
-## I am not a web developer, how do I setup my portfolio website?
+For any inquiries or feedback, please reach out to Hari Hara Sudhan B via email at [hariharasudhan.me21@bitsathy.ac.in](mailto:hariharasudhan.me21@bitsathy.ac.in) 
+### License
 
-> Need help with setting up your portfolio website?
-
-Contact us at https://ossph.org
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
